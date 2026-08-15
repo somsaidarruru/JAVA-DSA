@@ -23,7 +23,6 @@ class Nonrepeating {
         }
     }
 
-
     public static void main(String[] args){
 
         Nonrepeating n = new Nonrepeating();
